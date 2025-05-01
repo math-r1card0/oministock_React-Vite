@@ -37,7 +37,7 @@ Migração da landing page HTML/CSS/JS para React + Vite, implementando:
 }
 ```
 ## 🚀 Instalação
-git clone https://github.com/oministock/frontend-react
+git clone https://github.com/math-r1card0/oministock_React-Vite.git
 cd frontend-react
 npm install
 npm run dev
