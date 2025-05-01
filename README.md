@@ -57,9 +57,10 @@ src/
 │   └── images/
 └── App.jsx
 
-Nome	RM	Função
-Davi Correa Paião	560438	
-Filip Arnhold Outa	559294	
-Marcos Eduardo Hideyoshi Azuma	559883	
-Marcos Vinicius Gonçalves Santos	560062
-Matheus Ricardo Parreira da Silva	560099	[Tech Lead]
+| Nome | RM |
+|------|----|
+| Davi Correa Paião |	560438 |
+| Filip Arnhold Outa | 559294 |
+| Marcos Eduardo Hideyoshi Azuma | 559883 |
+| Marcos Vinicius Gonçalves Santos | 560062 |
+| Matheus Ricardo Parreira da Silva | 560099 |
