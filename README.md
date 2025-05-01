@@ -16,7 +16,7 @@ Migração da landing page HTML/CSS/JS para React + Vite, implementando:
 | Implementação de funcionalidades JS avançadas | 60 pts | ✔️ |
 
 ## 🛠️ Requisitos Técnicos
-json
+```json
 {
   "dependencies": {
     "react": "^18.2.0",
@@ -57,6 +57,7 @@ src/
 │   └── images/
 └── App.jsx
 
+## 🫂 Integrantes do Grupo
 | Nome | RM |
 |------|----|
 | Davi Correa Paião |	560438 |
