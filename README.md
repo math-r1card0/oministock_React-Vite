@@ -34,7 +34,7 @@ Migração da landing page HTML/CSS/JS para React + Vite, implementando:
     "Math Operations Module",
     "Responsive Design System"
   ]
-}
+}```
 
 ## 🚀 Instalação
 git clone https://github.com/oministock/frontend-react
