@@ -2,7 +2,7 @@
 
 Sistema automatizado de gestão de estoque em tempo real para farmácias hospitalares com tecnologia de sensores, biometria e inteligência artificial.
 
-## � Funcionalidades
+## ⚙️ Funcionalidades
 
 - **Gestão em Tempo Real**: Sensores de peso detectam automaticamente movimentações de estoque
 - **Segurança Biométrica**: Controle de acesso por impressão digital para medicamentos controlados
