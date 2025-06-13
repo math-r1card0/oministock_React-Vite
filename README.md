@@ -48,7 +48,7 @@ Abra [http://localhost:3000](http://localhost:3000) no seu navegador.
 
 ```
 src/
-├── components/          # Componentes reutilizáveis
+├── components/         # Componentes reutilizáveis
 │   ├── Nav.jsx         # Navegação principal
 │   └── Footer.jsx      # Rodapé
 ├── routes/             # Páginas/Rotas da aplicação
@@ -62,7 +62,7 @@ src/
 │   └── api-data.json   # Dados de produtos, funcionários, etc.
 ├── styles/             # Estilos personalizados
 │   └── main.css        # CSS principal com TailwindCSS
-└── main.jsx           # Ponto de entrada da aplicação
+└── main.jsx            # Ponto de entrada da aplicação
 ```
 
 ## 🎨 Design e UX
